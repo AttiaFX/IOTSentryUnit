@@ -1,4 +1,4 @@
-# IOTSmartCar
+# IOTSentryUnit
 #### Student Name: *Shady Attia*   Student ID: *20086638*
 
 Remote IOT security monitoring app using PIR motion sensor & camera.
